@@ -1,3 +1,4 @@
-English:- 92
-Maths :- 90
+English:- 95
+Maths :- 92
 Science :- 89
+Gujarati :- 96
